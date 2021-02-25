@@ -1,0 +1,159 @@
+<html>
+
+<head>
+    <title>Bit.com | Withdraw Bitcoin</title>
+    <link rel="stylesheet" href="assets/css/main.css" />
+</head>
+<style>
+
+
+    /* Chrome, Safari, Edge, Opera */
+    input::-webkit-outer-spin-button,
+    input::-webkit-inner-spin-button {
+        -webkit-appearance: none;
+        margin: 0;
+    }
+
+    /* Firefox */
+    input[type=number] {
+        -moz-appearance: textfield;
+    }
+
+</style>
+
+<body class="is-preload">
+
+    <!-- Header -->
+    <header id="header">
+        <a class="logo" href="javascript:window.location.reload(true)">Bit.com - Withdraw Bitcoin</a>
+        <nav>
+            <a href="index.html">&#9664;&nbsp;&nbsp;Back</a>
+        </nav>
+    </header>
+
+
+    <!-- Heading -->
+    <div id="heading">
+        <h1>Withdraw Bitcoin</h1>
+    </div>
+
+    <!-- Main -->
+    <section id="main" class="wrapper">
+        <div class="inner">
+            <div class="content">
+
+                <!-- Form -->
+
+                <center>
+                    <h3>Send Bitcoin to your wallet</h3>
+                    <font size="25" style="font-family: Arial, Helvetica, sans-serif;">100 BTC</font>
+                </center>
+                <br>
+                <form method="post" action="#">
+                    <h3>Bitcoin in this account:</h3>
+                    <h3>Receive address :</h3>
+                    <input type="text" name="" id="Send_address" placeholder="Enter wallet receive address" style="font-family: Arial, Helvetica, sans-serif;" />
+                    <br>
+                    <div class="row gtr-uniform">
+                        <div class="col-6 col-12-xsmall">
+                            <input type="number" name="Exchange_value" id="Exchange_value" placeholder="BTC" onkeyup="UpdateValue(event)" onkeypress='validate(event)' style="font-family: Arial, Helvetica, sans-serif;" />
+                            <p id="CountValue" style="font-family: Arial, Helvetica, sans-serif;" min="1" max="5"><br><br></p>
+                        </div>
+                        <div class="col-6 col-12-xsmall">
+                            <select name="Dollar_value" id="Dollar_value" onchange="changeType()">
+                                <option value="BTC">BTC</option>
+                                <option value="USD">USD</option>
+                                <option value="HKD">HKD</option>
+                                <option value="EUR">EUR</option>
+                            </select>
+                            <p id="demo" style="font-family: Arial, Helvetica, sans-serif;"></p>
+                        </div>
+                    </div>
+
+                    <br>
+                    <h3>You want to get(BTC):</h3>
+                    <font size="25" id="BTC_FINAL" style="font-family: Arial, Helvetica, sans-serif;"></font>
+                    <br>
+                    <center>
+                        <button>Send Bitcoin</button>
+                    </center>
+
+                </form>
+            </div>
+        </div>
+    </section>
+    <!-- Scripts -->
+    <script>
+        UpdateValue();
+        var Price_value = 0; //global variable  
+        function changeType() {
+            var d = new Date();
+            var n = d.toLocaleTimeString('en-GB');
+            var x = document.getElementById("Dollar_value").value;
+            var last_value = document.getElementById("Exchange_value").value;
+            var last_value_type = document.getElementById("Dollar_value").value;
+
+            document.getElementById("demo").innerHTML = "You selected: " + x;
+            document.getElementById("Exchange_value").placeholder = x;
+            fetch('https://blockchain.info/ticker').then(res => {
+                return res.json();
+            }).then(result => {
+                switch (x) {
+                    case "BTC":
+                        Price_value = 1
+                        document.getElementById("CountValue").innerHTML = "<br><br>";
+                        break;
+                    default:
+                        Price_value = result[x]["last"]
+                        document.getElementById("CountValue").innerHTML = " 1 BTC = " + result[x]["last"] + " " + x + "<br>Update at " + n;
+                        break;
+
+                }
+            });
+            UpdateValue();
+        }
+        document.getElementById("Dollar_value").value = "BTC"
+        changeType()
+
+        function UpdateValue() {
+            var x = document.getElementById("Exchange_value");
+            var y = document.getElementById("Dollar_value").value;
+            switch (y) {
+                case "BTC":
+                    document.getElementById("BTC_FINAL").innerHTML = x.value;
+                    break;
+                default:
+                    var return_value = x.value / Price_value
+                    document.getElementById("BTC_FINAL").innerHTML = return_value.toFixed(6);
+                    break;
+
+
+            }
+        }
+
+        function validate(evt) {
+            var theEvent = evt || window.event;
+
+            // Handle paste
+            if (theEvent.type === 'paste') {
+                key = event.clipboardData.getData('text/plain');
+            } else {
+                // Handle key press
+                var key = theEvent.keyCode || theEvent.which;
+                key = String.fromCharCode(key);
+            }
+            var regex = /[0-9]|\./;
+            if (!regex.test(key)) {
+                theEvent.returnValue = false;
+                if (theEvent.preventDefault) theEvent.preventDefault();
+            }
+        }
+    </script>
+
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/browser.min.js"></script>
+    <script src="assets/js/breakpoints.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/main.js"></script>
+
+</body></html>
