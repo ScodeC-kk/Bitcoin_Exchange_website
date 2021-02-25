@@ -1,0 +1,81 @@
+<html>
+
+<head>
+    <title>Bit.com - Login</title>
+    <link rel="stylesheet" href="assets/css/main.css" />
+</head>
+<style>
+    form {
+        margin: 0 auto;
+        width: 500px;
+    }
+
+</style>
+
+<body class="is-preload">
+
+    <!-- Header -->
+    <header id="header">
+        <a class="logo" href="javascript:window.location.reload(true)">Bit.com - Login</a>
+        <nav>
+            <a href="index.html">&#9664;&nbsp;&nbsp;Back</a>
+        </nav>
+    </header>
+
+
+    <!-- Heading -->
+    <div id="heading">
+        <h1>Login</h1>
+    </div>
+
+    <!-- Main -->
+    <section id="main" class="wrapper">
+        <div class="inner">
+            <div class="content">
+
+                <!-- Form -->
+
+                <form method="post" action="#">
+                    <div class="col-6 col-12-xsmall">
+                        <h3>Welcome back!</h3>
+                        <input type="text" name="login_id" id="login_id" value="" placeholder="Login ID" />
+                    </div>
+                    <br>
+                    <div class="col-6 col-12-xsmall">
+                        <input type="password" name="password" id="password" value="" placeholder="Password" />
+                    </div>
+                    <br>
+
+                    <!-- Break -->
+                    <script>
+                        function showPassword() {
+                            var x = document.getElementById("password");
+                            if (x.type === "password") {
+                                x.type = "text";
+                            } else {
+                                x.type = "password";
+                            }
+                        }
+
+                    </script>
+                    <div class="col-6 col-12-small">
+                        <input type="checkbox" id="checkbox-beta" name="checkbox" onclick="showPassword()">
+
+                        <label for="checkbox-beta">Show password</label>
+                    </div>
+
+                    <ul class="actions">
+                        <li><input type="submit" value="Login" class="primary" /></li>
+                        <li><input type="reset" value="Reset" /></li>
+                    </ul>
+                    <a href="forget_password.html">Forget password</a>
+                    <!-- Scripts -->
+                    <script src="assets/js/jquery.min.js"></script>
+                    <script src="assets/js/browser.min.js"></script>
+                    <script src="assets/js/breakpoints.min.js"></script>
+                    <script src="assets/js/util.js"></script>
+                    <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
