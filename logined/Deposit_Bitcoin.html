@@ -1,0 +1,94 @@
+<html>
+
+<head>
+    <title>Bit.com | Deposit Bitcoin</title>
+    <link rel="stylesheet" href="assets/css/main.css" />
+</head>
+<style>
+    form {
+        margin: 0 auto;
+        width: 500px;
+    }
+
+</style>
+
+<body class="is-preload">
+
+    <!-- Header -->
+    <header id="header">
+        <a class="logo" href="javascript:window.location.reload(true)">Bit.com - Deposit Bitcoin</a>
+        <nav>
+            <a href="index.html">&#9664;&nbsp;&nbsp;Back</a>
+        </nav>
+    </header>
+
+
+    <!-- Heading -->
+    <div id="heading">
+        <h1>Deposit Bitcoin</h1>
+    </div>
+
+    <!-- Main -->
+    <section id="main" class="wrapper">
+        <div class="inner">
+            <div class="content">
+
+                <!-- Form -->
+
+                <form method="post" action="#">
+                    <div class="col-6 col-12-xsmall">
+
+                        <center>
+                            <h3>Receive Bitcoin</h3>
+                            <p>Send to this address:</p>
+                            <script type="text/javascript" src="qrcodeJS/jquery.min.js"></script>
+                            <script type="text/javascript" src="qrcodeJS/qrcode.js"></script>
+                            <input id="addresss" type="text" value="15u8aAPK4jJ5N8wpWJ5gutAyyeHtKX5i18" style="width:80%" readonly /><br />
+
+                            <p>Scan the OR code to achieve the payment:</p>
+                            <div id="qrcode" style="width:300; height:300; margin-top:15px;" oncontextmenu="return false" onselectstart="return false" ondragstart="return false"></div>
+
+                            <script type="text/javascript">
+                                var qrcode = new QRCode(document.getElementById("qrcode"), {
+                                    width: 300,
+                                    height: 300
+                                });
+
+                                function makeCode() {
+                                    var elText = document.getElementById("addresss");
+
+                                    if (!elText.value) {
+                                        alert("Input a text");
+                                        elText.focus();
+                                        return;
+                                    }
+
+                                    qrcode.makeCode("bitcoin:" + elText.value);
+                                }
+
+                                makeCode();
+
+                                $("#text").
+                                on("blur", function() {
+                                    makeCode();
+                                }).
+                                on("keydown", function(e) {
+                                    if (e.keyCode == 13) {
+                                        makeCode();
+                                    }
+                                });
+
+                            </script>
+                            <br>
+                        </center>
+
+                        <!-- Scripts -->
+                        <script src="assets/js/jquery.min.js"></script>
+                        <script src="assets/js/browser.min.js"></script>
+                        <script src="assets/js/breakpoints.min.js"></script>
+                        <script src="assets/js/util.js"></script>
+                        <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
