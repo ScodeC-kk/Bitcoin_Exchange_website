@@ -1,4 +1,4 @@
-# EIE3117_Bitcoin_Exchange_website
+# Bitcoin_Exchange_website
 
 
 <p class=MsoNormal style='mso-pagination:widow-orphan'><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
