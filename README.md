@@ -1,6 +1,8 @@
 # EIE3117_Bitcoin_Exchange_website
 
 
+<p class=MsoNormal style='mso-pagination:widow-orphan'><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+
 
  <p class=MsoTocHeading><span class=1><span lang=EN-US style='mso-ansi-font-size:
  16.0pt;mso-bidi-font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif'>Menu<o:p></o:p></span></span><span
@@ -129,7 +131,9 @@
  lang=EN-US style='font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:107%;
  mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;
  mso-no-proof:yes'><o:p></o:p></span></p>
- 
+ <p class=MsoToc2 style='tab-stops:right dotted 414.8pt'><span lang=EN-US><a
+ href="#_Toc69809597"><span style='mso-no-proof:yes'>Website Map and process:</span><span
+ style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
  text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'> </span></span><!--[if supportFields]><span
  style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
  text-decoration:none;text-underline:none'><span style='mso-element:field-begin'></span>
@@ -309,6 +313,7 @@ mso-hansi-theme-font:major-latin;mso-bidi-font-family:"Times New Roman";
 mso-bidi-theme-font:major-bidi;mso-font-kerning:26.0pt'><o:p>&nbsp;</o:p></span></b></p>
 
 <h1><a name="_Toc69809590"><span lang=EN-US>System requirement:</span></a></h1>
+
 
 <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
  style='border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
