@@ -2196,10 +2196,7 @@ b250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEAOP0h/9YAAACUAQAACwAAAAAAAAAAAAAA
 AAAvAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEATNDvMaoCAACOBQAADgAAAAAAAAAAAAAA
 AAAuAgAAZHJzL2Uyb0RvYy54bWxQSwECLQAUAAYACAAAACEAoD0IU9sAAAAHAQAADwAAAAAAAAAA
 AAAAAAAEBQAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAAEAAQA8wAAAAwGAAAAAA==
-" filled="f" strokecolor="red" strokeweight="3pt"/><![endif]--><![if !vml]><span
-  style='mso-ignore:vglayout;position:absolute;z-index:251722752;margin-left:
-  -7px;margin-top:2px;width:118px;height:35px'><img width=118 height=35
-  src="EIE3117%20Final%20report.files/image066.png" v:shapes="矩形_x0020_45"></span><![endif]><span
+" filled="f" strokecolor="red" strokeweight="3pt"/><span
   lang=EN-US style='font-family:"Arial",sans-serif;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
    id="圖片_x0020_43" o:spid="_x0000_i1043" type="#_x0000_t75" style='width:157.5pt;
    height:74.25pt;visibility:visible;mso-wrap-style:square'>
@@ -2264,10 +2261,7 @@ bnRlbnRfVHlwZXNdLnhtbFBLAQItABQABgAIAAAAIQA4/SH/1gAAAJQBAAALAAAAAAAAAAAAAAAA
 AC8BAABfcmVscy8ucmVsc1BLAQItABQABgAIAAAAIQClPAEZpwIAAI0FAAAOAAAAAAAAAAAAAAAA
 AC4CAABkcnMvZTJvRG9jLnhtbFBLAQItABQABgAIAAAAIQCarwMc3QAAAAsBAAAPAAAAAAAAAAAA
 AAAAAAEFAABkcnMvZG93bnJldi54bWxQSwUGAAAAAAQABADzAAAACwYAAAAA
-" filled="f" strokecolor="red" strokeweight="3pt"/><![endif]--><![if !vml]><span
-  style='mso-ignore:vglayout;position:absolute;z-index:251731968;margin-left:
-  144px;margin-top:184px;width:62px;height:33px'><img width=62 height=33
-  src="EIE3117%20Final%20report.files/image069.png" v:shapes="矩形_x0020_48"></span><![endif]><span
+" filled="f" strokecolor="red" strokeweight="3pt"/><span
   lang=EN-US style='font-family:"Arial",sans-serif;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
    id="圖片_x0020_46" o:spid="_x0000_i1042" type="#_x0000_t75" style='width:258.75pt;
    height:153.75pt;visibility:visible;mso-wrap-style:square'>
@@ -2330,10 +2324,7 @@ BgAIAAAAIQAbyt813QAAAAsBAAAPAAAAAAAAAAAAAAAAAHQEAABkcnMvZG93bnJldi54bWxQSwUG
 AAAAAAQABADzAAAAfgUAAAAA
 " strokecolor="red" strokeweight="3pt">
    <v:stroke endarrow="block" joinstyle="miter"/>
-  </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout;
-  position:absolute;z-index:251750400;margin-left:91px;margin-top:135px;
-  width:66px;height:50px'><img width=66 height=50
-  src="EIE3117%20Final%20report.files/image072.png" v:shapes="直線單箭頭接點_x0020_53"></span><![endif]><!--[if gte vml 1]><v:rect
+  </v:shape><!--[if gte vml 1]><v:rect
    id="矩形_x0020_50" o:spid="_x0000_s1033" style='position:absolute;
    margin-left:32.15pt;margin-top:73.8pt;width:88.2pt;height:29.4pt;z-index:251741184;
    visibility:visible;mso-wrap-style:square;mso-width-percent:0;
@@ -2374,10 +2365,7 @@ ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEAOP0h/9YAAACUAQAACwAAAAAAAAAAAAAAAAAv
 AQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEA/24SDaUCAACOBQAADgAAAAAAAAAAAAAAAAAu
 AgAAZHJzL2Uyb0RvYy54bWxQSwECLQAUAAYACAAAACEA2dWeXt0AAAAKAQAADwAAAAAAAAAAAAAA
 AAD/BAAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAAEAAQA8wAAAAkGAAAAAA==
-" filled="f" strokecolor="red" strokeweight="3pt"/><![endif]--><![if !vml]><span
-  style='mso-ignore:vglayout;position:absolute;z-index:251741184;margin-left:
-  40px;margin-top:96px;width:123px;height:44px'><img width=123 height=44
-  src="EIE3117%20Final%20report.files/image073.png" v:shapes="矩形_x0020_50"></span><![endif]><span
+" filled="f" strokecolor="red" strokeweight="3pt"/><span
   lang=EN-US style='font-family:"Arial",sans-serif;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
    id="圖片_x0020_49" o:spid="_x0000_i1041" type="#_x0000_t75" style='width:149.25pt;
    height:115.5pt;visibility:visible;mso-wrap-style:square'>
@@ -2459,10 +2447,7 @@ bnRlbnRfVHlwZXNdLnhtbFBLAQItABQABgAIAAAAIQA4/SH/1gAAAJQBAAALAAAAAAAAAAAAAAAA
 AC8BAABfcmVscy8ucmVsc1BLAQItABQABgAIAAAAIQBR1Fq3pQIAAI0FAAAOAAAAAAAAAAAAAAAA
 AC4CAABkcnMvZTJvRG9jLnhtbFBLAQItABQABgAIAAAAIQB86Dv83wAAAAsBAAAPAAAAAAAAAAAA
 AAAAAP8EAABkcnMvZG93bnJldi54bWxQSwUGAAAAAAQABADzAAAACwYAAAAA
-" filled="f" strokecolor="red" strokeweight="3pt"/><![endif]--><![if !vml]><span
-  style='mso-ignore:vglayout;position:absolute;z-index:251759616;left:0px;
-  margin-left:97px;margin-top:258px;width:96px;height:39px'><img width=96
-  height=39 src="EIE3117%20Final%20report.files/image078.png" v:shapes="矩形_x0020_56"></span><![endif]><span
+" filled="f" strokecolor="red" strokeweight="3pt"/><span
   lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:"Arial",sans-serif;
   mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="圖片_x0020_54" o:spid="_x0000_i1039"
    type="#_x0000_t75" style='width:387pt;height:219.75pt;visibility:visible;
@@ -2526,10 +2511,7 @@ b250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEAOP0h/9YAAACUAQAACwAAAAAAAAAAAAAA
 AAAvAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEARLDR3aUCAACNBQAADgAAAAAAAAAAAAAA
 AAAuAgAAZHJzL2Uyb0RvYy54bWxQSwECLQAUAAYACAAAACEAFqmpj+AAAAALAQAADwAAAAAAAAAA
 AAAAAAD/BAAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAAEAAQA8wAAAAwGAAAAAA==
-" filled="f" strokecolor="red" strokeweight="3pt"/><![endif]--><![if !vml]><span
-  style='mso-ignore:vglayout;position:absolute;z-index:251768832;margin-left:
-  268px;margin-top:200px;width:96px;height:39px'><img width=96 height=39
-  src="EIE3117%20Final%20report.files/image081.png" v:shapes="矩形_x0020_59"></span><![endif]><span
+" filled="f" strokecolor="red" strokeweight="3pt"/><span
   lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:"Arial",sans-serif;
   mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="圖片_x0020_57" o:spid="_x0000_i1038"
    type="#_x0000_t75" style='width:405.75pt;height:178.5pt;visibility:visible;
@@ -2635,10 +2617,7 @@ AC4CAABkcnMvZTJvRG9jLnhtbFBLAQItABQABgAIAAAAIQC6iWCy4AAAAAsBAAAPAAAAAAAAAAAA
 AAAAAP4EAABkcnMvZG93bnJldi54bWxQSwUGAAAAAAQABADzAAAACwYAAAAA
 " filled="f" strokecolor="red" strokeweight="3pt">
    <w:wrap anchorx="margin"/>
-  </v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout;position:
-  absolute;z-index:251778048;margin-left:499px;margin-top:87px;width:48px;
-  height:39px'><img width=48 height=39
-  src="EIE3117%20Final%20report.files/image086.png" v:shapes="矩形_x0020_62"></span><![endif]><span
+  </v:rect><span
   lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:"Arial",sans-serif;
   mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="圖片_x0020_61" o:spid="_x0000_i1036"
    type="#_x0000_t75" style='width:414.75pt;height:97.5pt;visibility:visible;
@@ -2704,10 +2683,7 @@ AAAAAC4CAABkcnMvZTJvRG9jLnhtbFBLAQItABQABgAIAAAAIQDDfPl93wAAAAoBAAAPAAAAAAAA
 AAAAAAAAAAIFAABkcnMvZG93bnJldi54bWxQSwUGAAAAAAQABADzAAAADgYAAAAA
 " filled="f" strokecolor="red" strokeweight="3pt">
    <w:wrap anchorx="margin"/>
-  </v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout;position:
-  absolute;z-index:251787264;margin-left:22px;margin-top:316px;width:129px;
-  height:32px'><img width=129 height=32
-  src="EIE3117%20Final%20report.files/image089.png" v:shapes="矩形_x0020_131"></span><![endif]><span
+  </v:rect><span
   lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:"Arial",sans-serif;
   mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="圖片_x0020_130" o:spid="_x0000_i1035"
    type="#_x0000_t75" style='width:274.5pt;height:252.75pt;visibility:visible;
@@ -2775,10 +2751,7 @@ AAAuAgAAZHJzL2Uyb0RvYy54bWxQSwECLQAUAAYACAAAACEA8JtZBd4AAAALAQAADwAAAAAAAAAA
 AAAAAAABBQAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAAEAAQA8wAAAAwGAAAAAA==
 " filled="f" strokecolor="red" strokeweight="3pt">
    <w:wrap anchorx="margin"/>
-  </v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout;position:
-  absolute;z-index:251796480;margin-left:453px;margin-top:83px;width:49px;
-  height:49px'><img width=49 height=49
-  src="EIE3117%20Final%20report.files/image092.png" v:shapes="矩形_x0020_134"></span><![endif]><span
+  </v:rect><span
   lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:"Arial",sans-serif;
   mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="圖片_x0020_133" o:spid="_x0000_i1034"
    type="#_x0000_t75" style='width:384pt;height:102.75pt;visibility:visible;
@@ -2884,10 +2857,7 @@ AC4CAABkcnMvZTJvRG9jLnhtbFBLAQItABQABgAIAAAAIQB/w9Qp3wAAAAsBAAAPAAAAAAAAAAAA
 AAAAAP8EAABkcnMvZG93bnJldi54bWxQSwUGAAAAAAQABADzAAAACwYAAAAA
 " filled="f" strokecolor="red" strokeweight="3pt">
    <w:wrap anchorx="margin"/>
-  </v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout;position:
-  absolute;z-index:251805696;left:0px;margin-left:451px;margin-top:74px;
-  width:41px;height:28px'><img width=41 height=28
-  src="EIE3117%20Final%20report.files/image097.png" v:shapes="矩形_x0020_137"></span><![endif]><span
+  </v:rect>><span
   lang=EN-US style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="圖片_x0020_136"
    o:spid="_x0000_i1032" type="#_x0000_t75" style='width:369pt;height:75pt;
    visibility:visible;mso-wrap-style:square'>
@@ -2968,10 +2938,7 @@ AAAuAgAAZHJzL2Uyb0RvYy54bWxQSwECLQAUAAYACAAAACEArp799eAAAAALAQAADwAAAAAAAAAA
 AAAAAAD/BAAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAAEAAQA8wAAAAwGAAAAAA==
 " filled="f" strokecolor="red" strokeweight="3pt">
    <w:wrap anchorx="margin"/>
-  </v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout;position:
-  absolute;z-index:251807744;margin-left:227px;margin-top:363px;width:234px;
-  height:28px'><img width=234 height=28
-  src="EIE3117%20Final%20report.files/image102.png" v:shapes="矩形_x0020_3"></span><![endif]><span
+  </v:rect>><span
   lang=EN-US style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="圖片_x0020_2"
    o:spid="_x0000_i1030" type="#_x0000_t75" style='width:408pt;height:347.25pt;
    visibility:visible;mso-wrap-style:square'>
